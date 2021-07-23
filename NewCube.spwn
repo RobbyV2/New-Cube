@@ -1,0 +1,8 @@
+extract obj_props
+$.add(obj{
+    OBJ_ID: 69,
+    
+    X: 0,
+    Y: 0,
+    GROUPS: 1g,
+})
